@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm fthorntqgzaon246
 
-<!--
-**fthorntqgzaon246/fthorntqgzaon246** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎵 🎨 🏹 ✨ A freak in data structures 🎵 🎨 🏹 ✨
 
-Here are some ideas to get you started:
+## About Me
+🎣 🎮 💡 Addicted to project management 🎣 🎮 💡
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🏒 🏑 A programmer in data structures 🏒 🏑
+
+### Fun Facts
+🎣 🎾 🏸 🚵 Looking to contribute to system programming 🎣 🎾 🏸 🚵
+
+---
+🚣 🎾 🛹 🚵 🏸 Thanks for visiting my profile! 🌟 🎰 🎬 🎯 🏹
